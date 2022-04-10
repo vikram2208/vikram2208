@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vikram2208
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Vikram singh
+- 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning docker, ci cd, opencv
-- 💞️ I’m looking to collaborate on web based projects
+- 💞️ I’m looking to collaborate on web based projects and other intresting projects
 - 📫 How to reach me vickyvpjtqwv@gmail.com
 
 <!---
